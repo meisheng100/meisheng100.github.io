@@ -1,6 +1,6 @@
 ## 长沙花千寻信息技术有限公司
 
-<style>#content h2 {height: 0; display: none;} body .page-header {background-color: #03a9f4; background-image: linear-gradient(120deg, #9aaf4c, #ff926c);} body .project-tagline {margin: 0;} .site-footer {display: none;}</style>
+<style>#content h2 {height: 0; display: none;} body .page-header {background-color: #03a9f4; background-image: linear-gradient(120deg, #4caf50, #bcbcbc);} body .project-tagline {margin: 0;} .site-footer {display: none;}</style>
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
 		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220916/202209161752143umsd.png"/>
