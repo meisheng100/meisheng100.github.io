@@ -33,4 +33,20 @@
 	</div>
 </section>
 
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220919/202209191731118s13e.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220919/202209191731118s13e.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">驾考魔法师</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">提供科目一、科目四全真题库＋详细解析，对接权威数据，实时更新题库！根据个人做题记录，记录错题，方便复习纠正错误.助您提高驾考成绩、顺利通过考试，为您学车保驾护航. 您备考驾照的理想工具，全方位为您学车保驾护航！</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220919/202209191731592io7e.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220919/202209191732019llff.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220919/20220919173202820g9.png"/>
+	</div>
+</section>
+
 <a style="display: block; margin: 4rem; text-align: center;" href="http://beian.miit.gov.cn/">长沙花千寻信息技有限公司 湘 ICP 备 2022015823 号</a>
