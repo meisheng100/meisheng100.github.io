@@ -49,4 +49,20 @@
 	</div>
 </section>
 
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220920/202209200909461qugy.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220920/202209200909461qugy.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">95视频</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">精心打造，用的满意的视频应用！【视频编辑】包括视频变速、视频裁剪、视频倒放、添加字幕、视频拼接合并等；【音乐相册】炫酷的转场动画，自由搭配多款质感滤镜；【视频压缩】支持多个视频同时压缩，也可以提取音频压缩，减少压缩时间；【音频提取】一键提取音频内容；快来试试吧！</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220920/202209200913209568m.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220920/202209200913241q8b4.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220920/202209200913265ljum.png"/>
+	</div>
+</section>
+
 <a style="display: block; margin: 4rem; text-align: center;" href="http://beian.miit.gov.cn/">长沙花千寻信息技有限公司 湘 ICP 备 2022015823 号</a>
