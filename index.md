@@ -24,7 +24,7 @@
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220920/20220920181742110e1.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">水果视频录屏</b>
+		<b style="font-size: 16px;color: #333;">视频录屏宝</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">这是一款实用的屏幕录制软件！软件使用简单，无需过多学习，上手即用！视频录制质量高，如果再进行二次压缩，可以让体积更小！快捷剪辑功能，在录制完后，我们可以进行自由剪辑，比如去掉开头和结尾，选择进度条保存即可！视频变速操作，可以对录制的视频倍速播放！保存每次录制的历史记录，让视频不丢失！</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
