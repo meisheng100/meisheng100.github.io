@@ -4,6 +4,22 @@
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220926/2022092611345112n8h.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220926/2022092611345112n8h.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">自由桌面主题</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">海量高清主题壁纸，桌面主题，想换就换！分类齐全，资源丰富，您可以任性挑选！每张图片都是高清大图，带给您视觉盛宴的同时，也让您彰显个性与独特！长图拼接、自由涂鸦等功能，在我们应用里只是标配！您可以编辑任意图片，辅以质感滤镜，贴上心动贴纸，对各种图片进行细微调整，直到满意为止！</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220926/202209261136034c5zn.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220926/2022092611360429lcg.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220926/202209261136084w7az.png"/>
+	</div>
+</section>
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
 		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220922/2022092216093576r09.png"/>
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220922/2022092216093576r09.png">下载</a>
 	</div>
