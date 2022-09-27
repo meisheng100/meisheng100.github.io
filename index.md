@@ -36,12 +36,12 @@
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
-		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220921/2022092112054421wjb.png"/>
-		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220921/2022092112054421wjb.png">下载</a>
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220927/202209271148341var8.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220927/202209271148341var8.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">点点漫画</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">点点漫画，尽情展示独特与个性！海量图片，定期更新，紧跟热搜流行，让你随时都有新选择！超高清大图、无水印精美图片，清晰亮丽！宽屏壁纸，纵向横向都能hold住！精美图片，全部免费下载，不限次数哦！快速编辑图片，让它更靓丽！</p>
+		<b style="font-size: 16px;color: #333;">啵乐</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">尽情展示独特与个性！海量图片，定期更新，紧跟热搜流行，让你随时都有新选择！超高清大图、无水印精美图片，清晰亮丽！宽屏壁纸，纵向横向都能hold住！精美图片，全部免费下载，不限次数哦！快速编辑图片，让它更靓丽！</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220921/202209211214552k4xd.png"/>
