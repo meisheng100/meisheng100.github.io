@@ -24,7 +24,7 @@
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220929/202209291826422dxum.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">啵乐</b>
+		<b style="font-size: 16px;color: #333;">迷妹</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">海量高清主题壁纸，桌面主题，想换就换！分类齐全，资源丰富，您可以任性挑选！每张图片都是高清大图，带给您视觉盛宴的同时，也让您彰显个性与独特！长图拼接、自由涂鸦等功能，在我们应用里只是标配！您可以编辑任意图片，辅以质感滤镜，贴上心动贴纸，对各种图片进行细微调整，直到满意为止！</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
