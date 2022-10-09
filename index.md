@@ -8,8 +8,8 @@
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220929/202209291747305l6xe.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">星座月份表</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">星座月份，查查就知道！星座匹配，试试和他是否匹配吧！今日运程，一键查看！星座解析，性格、情感、运势早知道！</p>
+		<b style="font-size: 16px;color: #333;">星盘运势</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">星盘运势，查查就知道！星座匹配，试试和他是否匹配吧！今日运程，一键查看！星座解析，性格、情感、运势早知道！</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220929/2022092917475478rr3.png"/>
