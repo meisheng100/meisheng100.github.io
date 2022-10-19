@@ -8,7 +8,7 @@
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221011/20221011161227287b4.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">Only</b>
+		<b style="font-size: 16px;color: #333;">TelMe</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">生活中有开心，也有落寞痛楚。 随时随地的记录当下的一切，或美好，或失意。 留给未来的自己！</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
