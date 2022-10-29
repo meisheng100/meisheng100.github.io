@@ -8,7 +8,7 @@
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221027/202210271835290spn7.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">我的设备工具箱</b>
+		<b style="font-size: 16px;color: #333;">芥子工具箱</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">内置多款实用的小工具！ 快速查看手机存储、电量等信息！ 多个时区时间一键查看！ 倒数日快速创建！ 还有噪音检测、随机数、尺子！</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
