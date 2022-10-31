@@ -28,9 +28,9 @@
 		<p style="margin: 0; font-size: 14px;color: #999;">追韩剧大全，送给爱追剧的你！ 这里汇聚了海量热门资源，各种类型韩剧的解读，可以从不同的角度去赏识韩剧的精彩！ 内容每日更新，推荐不断，图文结合进行解读，让你更加清晰明确的了解剧情。 让你告别剧荒，海量影评，好剧尽情追~</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221029/202210291555003lisd.png"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221029/2022102915550855cmi.png"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221029/202210291555118k0th.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221031/202210311721170t46k.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221031/202210311721205t431.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221031/202210311721219meb6.png"/>
 	</div>
 </section>
 
