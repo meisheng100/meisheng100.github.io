@@ -56,7 +56,7 @@
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221027/202210271758504bbsy.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">MP3音乐格式转换器</b>
+		<b style="font-size: 16px;color: #333;">音乐格式转换器千寻版</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">这是一款实用的音频编辑工具！ 能轻松地将视频中音频提取，转化为音频文件！ 音频编辑可以轻松的剪辑、合成、转换您的音频文件！ 操作简单，上手即用！</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
@@ -72,7 +72,7 @@
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221027/2022102717112626c3v.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">一键手机同步助手</b>
+		<b style="font-size: 16px;color: #333;">手机同步助手千寻版</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">这是一款传输类应用。 可以快速传输照片、视频等数据至新手机，操作简单方便、快捷，让您解除换机带来的困扰。 传输过程免流量，且传输速度快，高效稳定。</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
