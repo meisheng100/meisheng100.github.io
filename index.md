@@ -4,6 +4,22 @@
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221031/202210311108120b4pg.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221031/202210311108120b4pg.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">装X神器</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">各种各样的炫酷效果，带您装出新高度！ 海量的视频制作模板，任您挑选！ 包括亲子、节日、生活、旅行、自然等将近二十类模板！ 一键套用，制作出动感的出游、亲子互动、情侣等视频！ 另有图片编辑功能，任何照片不满意，都可以先进行预处理，再导入视频模块中编辑！ 上手简单，操作便捷，快来装出自己的不一样吧！</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221031/202210311110091hgtu.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221031/202210311110117p6g0.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221031/2022103111143305i5v.png"/>
+	</div>
+</section>
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
 		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221029/202210291549317r5de.png"/>
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221029/202210291549317r5de.png">下载</a>
 	</div>
