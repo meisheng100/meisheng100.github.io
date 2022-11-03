@@ -8,7 +8,7 @@
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221102/2022110217431722rts.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">飘雪影院</b>
+		<b style="font-size: 16px;color: #333;">飘影院</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">精益求精，许多用户的选择。 提供精彩影视剧推荐解读，带你发现精彩的好剧。 精选经典影视赏析，在欣赏经典的同时，帮助你更高效地研究电影。 和电影近距离接触，让你更深层次的了解电影，走近电影的世界。</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
@@ -56,7 +56,7 @@
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221027/202210271758504bbsy.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">音乐格式转换器千寻版</b>
+		<b style="font-size: 16px;color: #333;">音乐格式转换吧</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">这是一款实用的音频编辑工具！ 能轻松地将视频中音频提取，转化为音频文件！ 音频编辑可以轻松的剪辑、合成、转换您的音频文件！ 操作简单，上手即用！</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
