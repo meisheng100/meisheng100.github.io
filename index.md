@@ -4,8 +4,24 @@
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
-		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221102/2022110217431722rts.png"/>
-		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221102/2022110217431722rts.png">下载</a>
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221104/202211041829294c4ff.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221104/202211041829294c4ff.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">555乐园</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">这是一款实用的成语汉语学习软件！ 成语在汉语中占据着举足轻重的地位，学好成语，至关重要！ 以让人容易接受的方式：如成语消除、成语猜猜的方式寓教于乐，让您能快速学会各种成语！ 成语释义简洁明了，让您在学习中快乐，在快乐中学习！</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221104/2022110418342094463.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221104/202211041834240qont.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221104/202211041834274evwx.png"/>
+	</div>
+</section>
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221104/2022110415161675v25.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221104/2022110415161675v25.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
 		<b style="font-size: 16px;color: #333;">飘影院</b>
@@ -24,7 +40,7 @@
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221031/202210311108120b4pg.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">装X神器</b>
+		<b style="font-size: 16px;color: #333;">装U神器</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">各种各样的炫酷效果，带您装出新高度！ 海量的视频制作模板，任您挑选！ 包括亲子、节日、生活、旅行、自然等将近二十类模板！ 一键套用，制作出动感的出游、亲子互动、情侣等视频！ 另有图片编辑功能，任何照片不满意，都可以先进行预处理，再导入视频模块中编辑！ 上手简单，操作便捷，快来装出自己的不一样吧！</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
