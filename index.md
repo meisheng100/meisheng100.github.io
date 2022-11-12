@@ -4,11 +4,27 @@
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221112/202211121025224walv.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221112/202211121025224walv.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">快乐点名抉择</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">这是一款实用的图片编辑处理与拍照应用。 【图片拍摄】支持动态滤镜、延时拍摄等，本地图片拍摄完成不满意时可以继续进行图片二次编辑，不错过每一个美好瞬间~ 【本地图片】支持多款滤镜傻瓜式编辑图片，可以进行饱和度、对比度、锐化等细微调节，添加贴纸打个标签吧~ 快来下载体验吧～</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221112/202211121028295tayt.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221112/202211121028362xxwj.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221112/202211121028469u1xf.png"/>
+	</div>
+</section>
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
 		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221110/202211101934154iln4.png"/>
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221110/202211101934154iln4.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">nice滤镜相机</b>
+		<b style="font-size: 16px;color: #333;">nice相机</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">这是一款实用的图片编辑处理与拍照应用。 【图片拍摄】支持动态滤镜、延时拍摄等，本地图片拍摄完成不满意时可以继续进行图片二次编辑，不错过每一个美好瞬间~ 【本地图片】支持多款滤镜傻瓜式编辑图片，可以进行饱和度、对比度、锐化等细微调节，添加贴纸打个标签吧~ 快来下载体验吧～</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
